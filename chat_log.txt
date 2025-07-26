@@ -1,0 +1,107 @@
+🧑 User: what are the products available
+🤖 Bot: You mentioned you don't like user_1, user. Here's what's available excluding those:
+- Milk
+- Bread
+- Eggs
+- Cheese
+- Apple Juice
+
+🧑 User: how many available
+🤖 Bot: Hello there! I'm TVYN Assistant. Please ask me about available products or tell me what you dislike.
+
+🧑 User: how many available
+🤖 Bot: Hello there! I'm TVYN Assistant. Please ask me about available products or tell me what you dislike.
+
+🧑 User: how many available
+🤖 Bot: Hello there! I'm TVYN Assistant. Please ask me about available products or tell me what you dislike.
+
+[2025-07-26 12:10:54]
+🧑 User: what are the products available
+🤖 Bot: Currently available products:
+- Milk
+- Bread
+- Apples
+
+[2025-07-26 12:11:08]
+🧑 User: how many avialble
+🤖 Bot: We have approximately 80 products in stock.
+
+[2025-07-26 12:11:35]
+🧑 User: give as available product table
+🤖 Bot: Currently available products:
+- Milk
+- Bread
+- Apples
+
+[2025-07-26 12:12:10]
+🧑 User: give products with quantity, price
+🤖 Bot: Hello! I'm TVYN Assistant. Please ask about available products or tell me what you dislike.
+
+[2025-07-26 12:13:18]
+🧑 User: what are the products available
+🤖 Bot: Currently available products:
+- Milk | Quantity: 25 | Price: 150
+- Bread | Quantity: 15 | Price: 60
+- Apples | Quantity: 40 | Price: 80
+
+
+[2025-07-26 12:13:39]
+🧑 User: i do not like milk
+🤖 Bot: Hello! I'm TVYN Assistant. Please ask about available products or tell me what you dislike.
+
+[2025-07-26 12:14:26]
+🧑 User: what are the products available
+🤖 Bot: Currently available products:
+- Milk | Quantity: 25 | Price: 150
+- Bread | Quantity: 15 | Price: 60
+- Apples | Quantity: 40 | Price: 80
+
+
+[2025-07-26 12:14:42]
+🧑 User: i do not like milk
+🤖 Bot: Got it! I'll remember you don't like milk.
+
+[2025-07-26 12:14:58]
+🧑 User: give avaialble products
+🤖 Bot: Hello! I'm TVYN Assistant. Please ask about available products or tell me what you dislike.
+
+[2025-07-26 12:15:28]
+🧑 User: give without dislike products
+🤖 Bot: Hello! I'm TVYN Assistant. Please ask about available products or tell me what you dislike.
+
+[2025-07-26 12:16:14]
+🧑 User: what are the products available
+🤖 Bot: Currently available products:
+- Bread | Quantity: 15 | Price: 60
+- Apples | Quantity: 40 | Price: 80
+
+
+[2025-07-26 12:16:41]
+🧑 User: give i disliked product
+🤖 Bot: Hello! I'm TVYN Assistant. Please ask about available products or tell me what you dislike.
+
+[2025-07-26 12:17:46]
+🧑 User: what are the products available
+🤖 Bot: Currently available products:
+- Bread | Quantity: 15 | Price: 60
+- Apples | Quantity: 40 | Price: 80
+
+
+[2025-07-26 12:52:54]
+🧑 User: what are the products available
+🤖 Bot: Currently available products:
+- Bread | Quantity: 15 | Price: 60
+- Apples | Quantity: 40 | Price: 80
+
+
+[2025-07-26 13:06:13]
+🧑 User: what are the products available
+🤖 Bot: Currently available products:
+- Bread | Quantity: 15 | Price: 60
+- Apples | Quantity: 40 | Price: 80
+
+
+[2025-07-26 13:06:24]
+🧑 User: pizza hut
+🤖 Bot: Hello! I'm TVYN Assistant. Please ask about available products or tell me what you dislike.
+
